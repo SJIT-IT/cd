@@ -1,3 +1,4 @@
+echo "script.sh" >> .gitignore
 git checkout master
 git add -A
 git commit -m "update"
